@@ -1,4 +1,11 @@
 # php-writer
+
+#### via composer
+
+```
+composer require bassam-nab/php-writer
+```
+#### example
 ```php
 
         (new PhpWriter())
