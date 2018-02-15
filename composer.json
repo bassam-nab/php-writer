@@ -9,9 +9,6 @@
             "name": "Bassam Nabriss"
         }
     ],
-    "require": {
-        "php": ">=5.5"
-    },
     "require-dev": {
         "phpunit/phpunit": "^6.5"
     },
