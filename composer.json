@@ -1,0 +1,29 @@
+{
+    "name": "bassam-nab/php-writer",
+    "description": "write php files using php.",
+    "keywords": ["php","writer"],
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Bassam Nabriss"
+        }
+    ],
+    "require": {
+        "php": "^5.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Src\\" : "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/bassam-nab/php-writer"
+        }
+    ]
+}
